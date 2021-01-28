@@ -1,0 +1,3 @@
+
+g++ -std=c++14 -fPIC -O2 -o crosshair2 crosshair2.cpp -L /home/brian/helios_dac-master/sdk -l HeliosDacAPI 
+
